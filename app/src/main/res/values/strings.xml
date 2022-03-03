@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMDM_P08</string>
+    <string name="send">Enviar</string>
+    <string name="close">Cerrar</string>
+    <string name="back">Volver</string>
+    <string name="change">Cambiar</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMDM_P08</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="change">Change</string>
+</resources>
